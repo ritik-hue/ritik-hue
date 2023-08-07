@@ -1,4 +1,4 @@
-<h1 align="center">Konnichiwa,I'm 👋, I'm Ritik Singh</h1>
+<h1 align="center">Konnichiwa 👋, I'm Ritik Singh</h1>
 <h3 align="center">A student really passionate about the methods we can harness technology to make it our friend also data is my forte</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritik-hue" alt="ritik-hue" /></a> </p>
